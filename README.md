@@ -1,2 +1,1 @@
-# Horiseons
-First challenge for bootcamp
+# Code Refactor Starter Code
