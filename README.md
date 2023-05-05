@@ -20,10 +20,10 @@ I utilized Visual Studio Code to refactor the starter code. This webpage is depl
 N/A
 
 ## Screenshot 
-_C__Users_Quinn%20Sargent_Desktop_bootcamp_Horiseons_index.html.png
-
-
+![](2023-05-04-17-01-23.png)
 
 
 
 ## Link to website 
+
+https://qwsargent.github.io/Quinn-s-Horiseon/#online-reputation-management
