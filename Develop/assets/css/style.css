@@ -212,14 +212,16 @@ so properties were consolidated by creating one class for all elements. */
 /* These two classes were ommited due to redundancy. 
 One class with the same attributes did the job */
 
-footer {
+/*footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/* The footer class was removed, and this section was re-named to the footer element. */
+*/
+/* The footer class was removed because it wasn't shown in the screenshot in our instructions */
 
-footer h2 {
+/*footer h2 {
     font-size: 20px;
 }
+*/
